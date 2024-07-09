@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "92da26b217ada5aff5c7ce42629bfb0695554eb17b673b2f567e097c9256114e"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "fb113ce5b5a4d5019d16b378b38eae5869723208ff2f78a85bd75bf688f23eb4"
 
