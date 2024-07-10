@@ -75,8 +75,18 @@ hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "55779930859fdb5ce10956909c965e436ed2a7712c2b4932e6eda395e6383658"
+metafile = true
+
+[[files]]
 file = "mods/centered-crosshair.pw.toml"
 hash = "8f6c3315ce3a45cfae295ff301b2c987687d29d32c43d92cd1d84d65d21bdd3f"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "3992f39495d3c9beb3db62f43dd45f9b383471ff4c5e274bcce146090756e672"
 metafile = true
 
 [[files]]
@@ -110,8 +120,18 @@ hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "22815b8141702d06dfe73f9e54c569d6591dbce3a0674d56db73e4a41c209518"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "991b8a836f82033fc5177a2c9e7f91e30d91694dfbc217db7e17c0075a9e5383"
 metafile = true
 
 [[files]]
@@ -195,6 +215,11 @@ hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
 
 [[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "9de7f5ad5ff476a24de9c7932cafc4e0566a33d9e35489e2ed0b0d5774f1424f"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
@@ -265,6 +290,11 @@ hash = "cae300ea753e041a586b86ea6f4cf4fe7158dc8820bb97ae931064502d8f5c22"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "09a2cb241231f2ff1d2e22620cd430a002b97a14704b83163cd89f36fcb72815"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
@@ -272,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
-metafile = true
-
-[[files]]
-file = "mods/noxesium.pw.toml"
-hash = "c10d6c96c09cc118afec31808a970f7df43f0279909f90d0b90624e29326c7d9"
 metafile = true
 
 [[files]]
@@ -335,6 +360,11 @@ hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "03fdecfb95c2475b5c401fdddd1be41b6e656ff67cfb56381b4dc6c387a2d8e7"
+metafile = true
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
 metafile = true
@@ -342,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "24d8c57673da91e9a2f9430b7a4fe9e1693e152c5f823d2cdef4495765df60a6"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "f632c6f98de8644ad2fa0153ab1211bd9f2751fe84620b894ab5f6f558efaae4"
 metafile = true
 
 [[files]]
@@ -360,6 +395,16 @@ hash = "fa6a6f2f838b83717c81fc505ff830e48d1e8a5680d9a01e05b91e3c380c973c"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "1a04e69ec18c3f8b21ece3b810d3499f6381a6b8e75af38f17a4c9fabc7ab796"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "563199dd7474844a71797be5114c798df3ded2d7bc0c9d384d9fd4aaa1b831b9"
+metafile = true
+
+[[files]]
 file = "mods/stutterfix.pw.toml"
 hash = "bbd09eae22a5bb78681f0435a7a9a78f9c9033f82e8348f22d5f980475b10e27"
 metafile = true
@@ -375,8 +420,18 @@ hash = "4b1c1e190da9f71eae5d18dbd87c4253d8c5810865ac860ead77241f2c2ed817"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "dee3d68d11657f4d43443853bc1eacb926062e24025b9c5b40ec8ea339ea8659"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "55f70f181fe81201201f2a1e82f462c67ef103e02e3b7b79c17369ca2a6ad6bc"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d8e6f0094a243233e66416c418671a891c417f7cfec2df40c1442fa82ec45b0d"
 metafile = true
 
 [[files]]
@@ -392,3 +447,8 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "43551673858eba253b0fd42a3f2dba8d9380ee727fcb1f9dd0fad5d655a8735a"
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
+metafile = true

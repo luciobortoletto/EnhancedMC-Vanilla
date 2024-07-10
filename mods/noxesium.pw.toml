@@ -1,8 +1,0 @@
-name = "Noxesium"
-filename = "noxesium-2.1.0-rc1+a631a7c.jar"
-side = "client"
-
-[download]
-url = "https://github.com/Noxcrew/noxesium/releases/download/v2.1.0-rc1/noxesium-2.1.0-rc1+a631a7c.jar"
-hash-format = "sha1"
-hash = "d8731b4e0ab232bc1a8165c4a50cebb49dedddc9"
