@@ -1,12 +1,12 @@
 name = "EnhancedMC Vanilla"
 author = "luciobortoletto"
-version = "2.0.0-beta.1"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5cda757f8e0da9fcdefd52694137811cd8566a13597d527b8d56839e75ba9e97"
+hash = "922af0df5177d9c6bcf78ed3c6551a643b78af0a7290ac9de911519956c7f169"
 
 [versions]
 minecraft = "1.21"

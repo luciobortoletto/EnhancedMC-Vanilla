@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "92da26b217ada5aff5c7ce42629bfb0695554eb17b673b2f567e097c9256114e"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "57412377c352fbaf774771d2228ba56bd21fcd8ed3336009d319bc716aeb9062"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "fb113ce5b5a4d5019d16b378b38eae5869723208ff2f78a85bd75bf688f23eb4"
 
@@ -74,6 +78,11 @@ hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
 metafile = true
@@ -135,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "991b8a836f82033fc5177a2c9e7f91e30d91694dfbc217db7e17c0075a9e5383"
+hash = "d9e8561b7696944a1647af52d7260fabb244b45b30f4b3656dc3630cecfb03e2"
 metafile = true
 
 [[files]]
@@ -236,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "47f6efdca29b585b4265d18edf6c6be56fbefbdf889ad6f9e7e01d91dfa581b6"
+metafile = true
+
+[[files]]
+file = "mods/keybind-fix.pw.toml"
+hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
 metafile = true
 
 [[files]]
@@ -450,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "43551673858eba253b0fd42a3f2dba8d9380ee727fcb1f9dd0fad5d655a8735a"
+hash = "e6411c95b9837c879b312bb56f3406131796d9b1f70c7412ece24580f887eba5"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
