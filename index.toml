@@ -45,6 +45,10 @@ file = "config/sodium-options.json"
 hash = "d6df6b4dfedd71dc33345cb34eba48bd4cea168f1c325938f071481b48b8b509"
 
 [[files]]
+file = "config/zoomify.json"
+hash = "4651a5c106de06abb7f9bd20766370ef4856e7be680fa597dd60b72ae23adc4a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6e4a1ad878793ab3c3b7df30ea8e4177a65c3632d1b35277683d6f6b333cb073"
 metafile = true
@@ -431,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d8e6f0094a243233e66416c418671a891c417f7cfec2df40c1442fa82ec45b0d"
+hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
 metafile = true
 
 [[files]]
