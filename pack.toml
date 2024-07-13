@@ -1,12 +1,12 @@
 name = "EnhancedMC Vanilla"
 author = "luciobortoletto"
-version = "fabric-2.0.1"
+version = "fabric-2.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5f5b0771058aaaa04cb2a73ffb0c115fefbd182621ed3815ac67b7011a1a3ccc"
+hash = "a59f3724f50009fb7d8a459d9bf923cea4b5268f85ccc1a91a9d6bf88e431051"
 
 [versions]
 fabric = "0.16.0"
