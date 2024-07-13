@@ -3,6 +3,6 @@ filename = "moreculling-1.21-0.25.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/luciobortoletto/MoreCulling-1.21/releases/download/v0.25.0-1.21-unofficial.2/moreculling-1.21-0.25.0.jar"
+url = "https://github.com/luciobortoletto/MoreCulling-1.21/releases/download/v0.25.0-1.21-unofficial.3/moreculling-1.21-0.25.0.jar"
 hash-format = "sha1"
-hash = "b8057f4563c5c7d37c6e92b4b91de1834fae1008"
+hash = "58e249f202f3752127236bc44e9874350e070bcf"

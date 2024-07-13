@@ -49,6 +49,10 @@ file = "config/sodium-options.json"
 hash = "d6df6b4dfedd71dc33345cb34eba48bd4cea168f1c325938f071481b48b8b509"
 
 [[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "a62dc3bffb9ce00d5b0b19a7742bedf2701937694ee3544081ba6a12170cf0f7"
+
+[[files]]
 file = "config/zoomify.json"
 hash = "4651a5c106de06abb7f9bd20766370ef4856e7be680fa597dd60b72ae23adc4a"
 
@@ -73,13 +77,18 @@ hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "4678f60378eac59d8711df0a60bab208dab021cb8aa8cf1e52165ee370272a5a"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
+hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
 metafile = true
 
 [[files]]
@@ -234,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "47f6efdca29b585b4265d18edf6c6be56fbefbdf889ad6f9e7e01d91dfa581b6"
+hash = "e4ad435d9280602f0bd17e860cacc1082e2851c9347d2572a828a630c72fb112"
 metafile = true
 
 [[files]]
@@ -274,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
@@ -289,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e15e33a8526c0bf3e1cf9e0af521bf1d02b51a9dd6c423e968b4e12ca5587de7"
+hash = "19b72d1ed176333688c04b030cf5e4df5dfbf3969e4897413debdaa6ca062830"
 metafile = true
 
 [[files]]
@@ -399,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "fa6a6f2f838b83717c81fc505ff830e48d1e8a5680d9a01e05b91e3c380c973c"
+hash = "afc06fed4e996bf3ad5cf2e8248d1cfc6650d8cae19fc8c6745e41c085c8eb2d"
 metafile = true
 
 [[files]]
@@ -420,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/super-better-grass.pw.toml"
 hash = "fdde234e3d01ab1c8a53c1e971ca22c064be27cc4c1ceb96a1291ce3e7b6b4ce"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "2252104afddb9f597d4e3daacc780506b3bb693a514ca24bba63527e45629f1b"
 metafile = true
 
 [[files]]
