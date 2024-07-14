@@ -107,11 +107,6 @@ hash = "3992f39495d3c9beb3db62f43dd45f9b383471ff4c5e274bcce146090756e672"
 metafile = true
 
 [[files]]
-file = "mods/clientsidenoteblocks.pw.toml"
-hash = "c3b0a2189e0e4b274d9e223b662bf3575dd436cfd979ad3e97f0754c6450739a"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
@@ -363,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8f389594985c481d6f51e7d541878cc3fd111d10af95bb919876b94348aff901"
+hash = "0beb61db905961db02beefceed886d780df6fff3ad969f84bb4d245c6683af94"
 metafile = true
 
 [[files]]
@@ -372,8 +367,18 @@ hash = "17348559d0deb79189d92e2cd8d4090cd80cdb51a48a86b7049936cd5e81327d"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "3309993b941c3563ed2c3b23d1a7b3fb000838de4c07532273eaf21f54269056"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "94a04d1f3e30ce411ae630d33fe386eaeedf4153b3f6b5985c2774b111455278"
 metafile = true
 
 [[files]]
@@ -413,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "1a04e69ec18c3f8b21ece3b810d3499f6381a6b8e75af38f17a4c9fabc7ab796"
+hash = "a99b8f0a5b6d2e6ed597df4407de01e602ca7e9c62e4417fd99b17bc1e5c120f"
 metafile = true
 
 [[files]]
