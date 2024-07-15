@@ -63,12 +63,17 @@ metafile = true
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
-hash = "5076928c92c469fa721b35ca924bcd9365125eff44f9f291c54af41be91705ee"
+hash = "830e39bc397a46a5b99f38d5758e58ad09aaf2ead6b221bdce052f7ab0bbbb28"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
 
 [[files]]
@@ -149,11 +154,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "f0ab69070fefbc85039133adf4015dc0a403a45d5c00713d6200b0943a310398"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "2661599c537d494d1b7bf2aaee0b64c5d80b1944dc1bf3094be1db93f860783b"
+hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
@@ -374,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "2217144fc3c02492f7c3479396917478df02ebed1566514dbe1c3dae4fe46059"
 metafile = true
 
 [[files]]

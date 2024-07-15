@@ -1,13 +1,13 @@
 name = "AdvancementInfo Reloaded"
-filename = "advancementinforeloaded-0.2.0-1.21.jar"
+filename = "advancementinforeloaded-0.2.1-1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/U0iA760u/advancementinforeloaded-0.2.0-1.21.jar"
+url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/n8sCMS14/advancementinforeloaded-0.2.1-1.21.jar"
 hash-format = "sha1"
-hash = "6f2cbc50fae6ad12000c9dd3bc809f565c9bd0db"
+hash = "a4bdb239f6a4ae0c4d5cdb189ba7c6a6648673a7"
 
 [update]
 [update.modrinth]
 mod-id = "tLuRLqpa"
-version = "U0iA760u"
+version = "n8sCMS14"
