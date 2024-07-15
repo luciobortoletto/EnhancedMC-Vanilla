@@ -1,6 +1,6 @@
 name = "EnhancedMC Vanilla"
 author = "luciobortoletto"
-version = "quilt-2.0.3"
+version = "quilt-2.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
