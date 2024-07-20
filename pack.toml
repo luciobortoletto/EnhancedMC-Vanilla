@@ -1,12 +1,12 @@
 name = "EnhancedMC Vanilla"
 author = "luciobortoletto"
-version = "quilt-2.0.4"
+version = "quilt-2.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "41c54d5638802d0cd294e9d1a64d43463b8a6c41ca54b2f911b2d082da35ae59"
+hash = "37cd36f025a3e48644a72e45f8bea19d5d1a6bd37af36994bf75e2869a0c4bf2"
 
 [versions]
 minecraft = "1.21"
