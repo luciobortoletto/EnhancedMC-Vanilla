@@ -33,7 +33,7 @@
 
 	[emotes.general]
 		disable_emotes = false
-		play_emotes_in_third_person_view = true
+		play_emotes_in_third_person_view = false
 		emote_preview = true
 
 [privacy]

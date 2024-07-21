@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "92da26b217ada5aff5c7ce42629bfb0695554eb17b673b2f567e097c9256114e"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "87ba8cff017ddd7e6ee70077f41f477e7f4054ca7cf89000cbe27e50950c12d9"
+
+[[files]]
 file = "config/advancementinforeloaded.json5"
 hash = "47414d29763a9ed7074412a656c72e4b86d5f3ec964a09c63e64736998a2b99f"
 
@@ -62,7 +66,7 @@ hash = "a62dc3bffb9ce00d5b0b19a7742bedf2701937694ee3544081ba6a12170cf0f7"
 
 [[files]]
 file = "essential/config.toml"
-hash = "f2198bf0923bb2821b905806ce1837a01683e1a8855f391d54372596710773ab"
+hash = "de07b5affa7c336a76d480061579b06732882b86c27a68ff4b2010f0668b4212"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
@@ -115,6 +119,11 @@ hash = "50d8c51d38f9afd4ca98c63bb180e02011dea680d1920b0788f9c948309d7199"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7ed2158d2715c74dc93716079c029524ffc36680358d0a79757ab1052a04af6c"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "3992f39495d3c9beb3db62f43dd45f9b383471ff4c5e274bcce146090756e672"
 metafile = true
@@ -147,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "22815b8141702d06dfe73f9e54c569d6591dbce3a0674d56db73e4a41c209518"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bcd6ab63410cedbf87e7056337ddf50059655c59a23189520a22eab8419b8415"
 metafile = true
 
 [[files]]
@@ -255,11 +269,6 @@ hash = "e4ad435d9280602f0bd17e860cacc1082e2851c9347d2572a828a630c72fb112"
 metafile = true
 
 [[files]]
-file = "mods/keybind-fix.pw.toml"
-hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
@@ -295,6 +304,11 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "aaa0c9a7f376101ba03bd914380219146e81f326b881f5c30bede7914146d37c"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "90f207724a47d6b32f45c6a53da2539f544df944709418761ec8ede01a401a47"
 metafile = true
@@ -320,6 +334,11 @@ hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "187a72ac973f74f60ee363a52901f66fb3063e229d830cee3ab6920c13a53d87"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
 metafile = true
@@ -342,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "a9552d1bbb7be32adaf82b6267978d98dcb2f95615aaf552a2bac4c4bcf96b88"
-metafile = true
-
-[[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
@@ -405,11 +419,6 @@ hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "9ba40cbb5d1da9666bf4b3a0ff6fa7e9520230252bc4cf00f02848f3e4633957"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "f632c6f98de8644ad2fa0153ab1211bd9f2751fe84620b894ab5f6f558efaae4"
 metafile = true
@@ -417,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-refurbished.pw.toml"
+hash = "7a4e4269002806365e5dfa006d82c1e2e2999d9abeeb30b6cd5c31984d5f70e2"
 metafile = true
 
 [[files]]
@@ -455,6 +469,11 @@ hash = "fdde234e3d01ab1c8a53c1e971ca22c064be27cc4c1ceb96a1291ce3e7b6b4ce"
 metafile = true
 
 [[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "622bfc94f8d11134a5dcdb9b2e31a30963be56917479053ba1f94cb04320807a"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "9ce0d6322b997a5ab5dd2bd66f9491e0baf714b35f42d67adfecc75b9620af08"
 metafile = true
@@ -486,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e6411c95b9837c879b312bb56f3406131796d9b1f70c7412ece24580f887eba5"
+hash = "4c06f37aa1e4d71e2648865357b7140282493afbc9df88aa243f7f06ab952226"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
